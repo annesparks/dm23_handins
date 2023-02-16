@@ -1,0 +1,7 @@
+name: dm23
+dependencies:
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - jupyterlab
